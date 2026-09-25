@@ -1,8 +1,12 @@
-# 関根 悠介 | Yusuke Sekine
+# 関根優介 | Sekine Yusuke
 
-データサイエンティスト / データエンジニアとして、株式会社サイバーエージェントで働いています（2025年4月〜）。データを活用した課題発見から、分析・機械学習、データ基盤やプロダクトへの実装までに関心があります。
+## 自己紹介（日本語）
 
-Data Scientist / Data Engineer at CyberAgent, Inc. (since April 2025). I am interested in using data to identify problems and building practical solutions through analytics, machine learning, data platforms, and software.
+2025年4月より株式会社サイバーエージェントで、データサイエンティスト / データエンジニアとして働いています。データを活用した課題発見から、分析・機械学習、データ基盤やプロダクトへの実装までに関心があります。
+
+## About Me (English)
+
+I have been working at CyberAgent, Inc. as a Data Scientist / Data Engineer since April 2025. I am interested in identifying problems with data and building practical solutions through analytics, machine learning, data platforms, and software.
 
 - **専門分野 / Focus:** データサイエンス、データエンジニアリング、機械学習、自然言語処理、LLM、健康データ分析  
   Data science, data engineering, machine learning, NLP, LLMs, and health data analysis
