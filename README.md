@@ -1,4 +1,4 @@
-# Sekine Yusuke
+# Yusuke Sekine
 
 ## About Me
 
