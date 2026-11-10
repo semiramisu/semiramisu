@@ -8,7 +8,7 @@ I have been working at CyberAgent, Inc. as a Data Scientist and Data Engineer si
 - **Technologies:** Python, SQL, AWS, Terraform, Snowflake, and dbt
 - **Technical profile and writing:** [semiramisu.com/tech](https://semiramisu.com/tech/)
 - **Note:** [note.com/sekine_ds](https://note.com/sekine_ds)
-- ·**X:** [@sekine_DS](https://x.com/sekine_DS)
+- **X:** [@sekine_DS](https://x.com/sekine_DS)
 
 ## Selected Projects
 
